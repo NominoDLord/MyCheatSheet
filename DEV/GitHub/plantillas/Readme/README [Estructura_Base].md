@@ -73,5 +73,7 @@ Hacer un mal uso del contenido conllevará a acciones legales contra la persona 
 ***::: DATOS :::***
 
 > AUTOR: Nômino D Lord
+> 
 > E-MAIL: nominodlord@mailfence.com
+> 
 > DONAR: [PayPal](https://www.paypal.com/donate/?hosted_button_id=V7JFQBUUK5ZYA)
