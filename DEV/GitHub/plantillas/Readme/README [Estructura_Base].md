@@ -8,22 +8,24 @@
 ---
 
 # MyCheatSheet
-
+> ---
+> *LICENSE:*
+>
 > Creative Commons Attribution-NonCommercial 4.0 International
 > > Copyright (c) 2023 Nômino D Lord
-	
+>
+> ---
+
+# ***::: INFORMACIÓN :::***
+
+*[ Breve descripción sobre el contenido del repositorio ]*
+
+*[ Descripción detallada sobre el contenido del repositorio ]*
+
 ---
 
-***::: INFORMACIÓN :::***
-
-	[ Breve descripción sobre el contenido del repositorio ]
-
-	[ Descripción detallada sobre el contenido del repositorio ]
-
----
-
-***::: ESTRUCTURA :::***
-```
+# ***::: ESTRUCTURA :::***
+```WorkFlow
 my_project/  # Directorio principal
 |
 |-- .gitignore  # Archivo donde se indica que archivos no deben ser rastreados por Git.
@@ -58,22 +60,22 @@ my_project/  # Directorio principal
 
 ---
 
-***::: NORMAS DE USO :::***
+# ***::: NORMAS DE USO :::***
 
 El contenido que se encuentra en este repositorio esta sujeto a ciertas normas de uso:
 
-	1º Se permite su uso a cualquier persona/entidad siempre y cuando se acredite su procedencia.
-	2º Se permite compartir, editar y adaptar el contenido según necesidades personales.
-	3º Bajo ninguna circunstancia el contenido pueden ser usado con fines comerciales.
+```License
+1º Se permite su uso a cualquier persona/entidad siempre y cuando se acredite su procedencia.
+2º Se permite compartir, editar y adaptar el contenido según necesidades personales.
+3º Bajo ninguna circunstancia el contenido pueden ser usado con fines comerciales.
+```
 
 Hacer un mal uso del contenido conllevará a acciones legales contra la persona o entidad responsable.
 
 ---
 
-***::: DATOS :::***
+# ***::: DATOS :::***
 
 > AUTOR: Nômino D Lord
-> 
 > E-MAIL: nominodlord@mailfence.com
-> 
 > DONAR: [PayPal](https://www.paypal.com/donate/?hosted_button_id=V7JFQBUUK5ZYA)

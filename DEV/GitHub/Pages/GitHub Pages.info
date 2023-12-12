@@ -1,0 +1,41 @@
+¿Cómo crear una Web en un repositorio de GitHub?
+
+
+	
+	1. Crea un Nuevo Repositorio:
+Ve a la página principal de GitHub y haz clic en el botón "New" (Nuevo) para crear un nuevo repositorio.
+Asigna un nombre a tu repositorio.
+Marca la casilla "Initialize this repository with a README" (Inicializar este repositorio con un README) si deseas comenzar con un archivo README.
+
+	2. Agrega Archivos de Página Web:
+Si ya tienes archivos HTML, CSS y otros recursos para tu página web, puedes cargarlos directamente en tu repositorio. Si no los tienes, puedes crearlos directamente en GitHub.
+Para crear un nuevo archivo, haz clic en el botón "Add file" (Agregar archivo) y selecciona "Create new file" (Crear nuevo archivo).
+Asegúrate de tener al menos un archivo HTML para tu página principal.
+
+	3. Configura GitHub Pages:
+En la página principal de tu repositorio, haz clic en la pestaña "Settings" (Configuración).
+Desplázate hacia abajo hasta la sección "GitHub Pages".
+En la opción "Source" (Fuente), selecciona la rama de tu repositorio que contiene tu código de página web (por lo general, "main" o "master").
+Haz clic en "Save" (Guardar).
+
+	4. Accede a Tu Página Web:
+Después de guardar la configuración, se generará un enlace a tu página web en la sección "GitHub Pages".
+Puedes acceder a tu página web a través de ese enlace (por ejemplo, https://tuusuario.github.io/turepositorio).
+
+	5. Personaliza tu Página:
+Puedes seguir agregando archivos, modificando el código y personalizando tu página según tus necesidades.
+Si tienes un dominio personalizado, puedes configurarlo en la sección de configuración de GitHub Pages.
+
+
+---
+
+- Crear nuevo repositorio con el siguiente nombre:
+	· NombreDeUsuario.github.io
+
+
+- Dentro del nuevo repositorio creado, ir a...
+	· Configuración → Código y automatización → Páginas → Compilación e implementación → Origen → Implementar desde una rama
+	· Compilación e implementación → Rama → selecciona un origen de publicación.
+	
+	· Settings → [Code and automation] Pages → [Build and deployment] → 
+	
