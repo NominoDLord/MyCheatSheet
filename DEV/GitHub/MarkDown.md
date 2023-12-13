@@ -8,6 +8,21 @@
 
 # : : : M A R K D O W N : : :
 
+> [!NOTE]
+> NOTA
+
+> [!TIP]
+> CONSEJO
+
+> [!IMPORTANT]
+> IMPORTANTE
+
+> [!WARNING]
+> ADVERTENCIA
+
+> [!CAUTION]
+> PRECAUCIÓN
+
 ## DEFINIR ESTILOS DE MARCADO
 
 - ` **Negrita** `
